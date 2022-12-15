@@ -1,5 +1,5 @@
 name: Question
-description: File a bug report
+description: File a question
 title: "[Question]: "
 labels: ["triage"]
 assignees:
